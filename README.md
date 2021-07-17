@@ -24,3 +24,6 @@ cor rosa/roxo
 
 fonte - 
 shrikhand
+
+
+off - git push -f origin main
