@@ -1,0 +1,18 @@
+body{
+    font: 20px Cambria Math;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiro{
+    background-color: #0048E8;
+   
+}
+
+.bg-footer{
+background-color: #0048E8;
+color: #ECEFF5;
+}
